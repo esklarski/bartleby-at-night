@@ -1,5 +1,6 @@
 {
     "name": "bartleby-at-night",
+    "publisher": "evan",
     "displayName": "Bartleby at Night",
     "description": "Color theme for use on low brightness displays. Heavily inspired by Dracula at Night and Hisoka themes.",
     "icon": "images/vampire.png",
