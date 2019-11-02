@@ -15,4 +15,10 @@ So far I have only used this theme for javascript, html, and some random things 
 ### For more information
 git: https://github.com/esklarski/bartleby-at-night.git
 
+### References
+- Icon made by https://www.flaticon.com/authors/freepik from https://www.flaticon.com/
+- Dracula at Night: https://marketplace.visualstudio.com/items?itemName=bceskavich.theme-dracula-at-night
+- Hisoka Theme: https://marketplace.visualstudio.com/items?itemName=abidrah.hisoka-theme
+
+###
 **Enjoy!**
