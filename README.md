@@ -17,7 +17,6 @@ git: https://github.com/esklarski/bartleby-at-night.git
 
 ### References
 - Icon made by https://www.flaticon.com/authors/freepik from https://www.flaticon.com/
--- to be changed
 - Dracula at Night: https://marketplace.visualstudio.com/items?itemName=bceskavich.theme-dracula-at-night
 - Hisoka Theme: https://marketplace.visualstudio.com/items?itemName=abidrah.hisoka-theme
 
