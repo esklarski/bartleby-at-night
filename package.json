@@ -15,6 +15,13 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+		"color-theme",
+		"theme",
+		"vivid",
+		"dark",
+		"night"
+	],
     "contributes": {
         "themes": [
             {
